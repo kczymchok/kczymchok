@@ -32,17 +32,15 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0319.gif" width="1920" height="5" /> 
 
 <div align="center">
-  <a href="https://github.com/ParasRupani/ParasRupani"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=200&color=2D47F7&center=true&vCenter=true&random=false&width=435&height=30&lines=Connect+With+Me+!" alt="Typing SVG" />
+  <a href="https://github.com/keczymchok/kczymchok"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=200&color=2D47F7&center=true&vCenter=true&random=false&width=435&height=30&lines=Connect+With+Me+!" alt="Typing SVG" />
     </a>
 </div>
 
 <div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-Portfolio-c71610?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kevin-chok/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br>
-  <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Anmol#7140" /></a>
+  <a href="mailto:kevin.chok@outlook.com"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 </div>
 
