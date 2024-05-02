@@ -1,9 +1,9 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ParasRupani.ParasRupani" /> -->
 
 <div align="center">
-  <a href="https://github.com/ParasRupani/ParasRupani">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=4000&color=4C6FFF&center=true&vCenter=true&multiline=true&random=false&width=435&height=40&lines=Hi+There!+I'm+Paras+Rupani+%F0%9F%91%8B"/>
-    <br>
+  <a href="https://github.com/kczymchok/kczymchok">
+<!--     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=4000&color=4C6FFF&center=true&vCenter=true&multiline=true&random=false&width=435&height=40&lines=Hi+There!+I'm+Paras+Rupani+%F0%9F%91%8B"/>
+    <br> -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2300&pause=4110&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=435&height=40&lines=HUNTING+%26+EXPOSING"/>
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=4000&color=4C6FFF&center=true&vCenter=true&multiline=true&random=false&width=435&height=40&lines=Every+Dataset's+Story!+%F0%9F%95%B5%EF%B8%8F"/>
