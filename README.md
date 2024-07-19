@@ -8,7 +8,7 @@ This repository is to act like a high level overview of the data science project
 
 This project leverages Velib Paris' Open Data (self-service bicycle in Paris) to optimize Lime's bike and scooter deployment by predicting bike availability at Velib stations. Real-time data is ingested using Kafka Confluent and stored in S3, then processed with Airflow to load it into Amazon Redshift. A predictive model estimates bike availability, served via FastAPI. The user interface, built with Streamlit, visualizes bike availability and highlights stations with less than 10% or no bikes available. Docker and Docker Compose ensure seamless deployment and communication between services.
 
-Librairies: Pandas, Numpy, Seaborn, Scikit-Learn
+Libraries: Pandas, Numpy, Seaborn, Scikit-Learn
 
 Technology and Tools:
 
@@ -20,7 +20,7 @@ Technology and Tools:
 - Streamlit: Developing the user interface.
 - Docker & Docker Compose: Containerization and deployment.
 
-[Webscrapping & ETL](https://github.com/kczymchok/bloc_1_kayak_project)
+[Web Scrapping & ETL](https://github.com/kczymchok/bloc_1_kayak_project)
 
 This project aims to recommend the best hotel deals for 5 cities in France based on predefined weather criteria. The process involves collecting geolocation data for cities, weather data, and web scraping the hotels deals on Booking.com, followed by data processing and visualization to provide actionable travel recommendations.
 
@@ -70,22 +70,20 @@ AT&T aims to tackle spam messages by developing an automated spam detector. The 
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# 
 
+## Skills
 
-
-
-
-| Category        | Skills        |
-|-----------------|---------------|
-| Languages       |<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white"/> |
-| Frameworks/Library| <img src="https://img.shields.io/badge/Keras-9F000F?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit-Learn-FF6700?style=for-the-badge&logo=scikitlearn&logoColor=white"/>  <img src="https://img.shields.io/badge/tensorflow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=orange"/> <img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=red"/> <img src="https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue"/> <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly"/>  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=grey"/> <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=seaborn&logoColor=blue"/> |
-| API devolpment | <a href="https://www.linkedin.com/in/kevin-chok/"><img src="https://img.shields.io/badge/FASTAPI-1B8A6B?style=for-the-badge&logo=fastapi&logoColor=white"/></a> |
-| Database | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=blue"/> |
-| Deployment         | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/Kubernetes-306EFF?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/MLFLOW-FFFFFF?style=for-the-badge&logo=mlflow&logoColor=blue"/> <img src="https://img.shields.io/badge/Streamlit-FFFFFF?style=for-the-badge&logo=streamlit&logoColor=red"/>  |
-| Versioning| <a href="https://github.com/kczymchok"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>|
-| Learning | <a href="https://www.linkedin.com/in/kevin-chok/"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a> |
-
+| Category             | Skills        |
+|----------------------|---------------|
+| **Languages**        | ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white) |
+| **Frameworks/Libraries** | ![Keras](https://img.shields.io/badge/Keras-9F000F?style=for-the-badge&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-FF6700?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=orange) ![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=red) ![Numpy](https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=grey) ![Seaborn](https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=seaborn&logoColor=blue) |
+| **API Development**  | ![FastAPI](https://img.shields.io/badge/FASTAPI-1B8A6B?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Web Scraping**     | ![Selenium](https://img.shields.io/badge/Selenium-12AD2B?style=for-the-badge&logo=selenium&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FFFFF?style=for-the-badge&logo=beautifulsoup&logoColor=black) |
+| **Data Engineering** | ![Airflow](https://img.shields.io/badge/Airflow-990012?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Kafka Confluent](https://img.shields.io/badge/Kafka%20Confluent-000000?style=for-the-badge&logo=apachekafka&logoColor=white) |
+| **Database**         | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=blue) |
+| **Cloud Platforms**  | ![AWS S3](https://img.shields.io/badge/AWS%20S3-006400?style=for-the-badge&logo=amazonaws&logoColor=white) ![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-4169E1?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| **Deployment**       | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-000000?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-306EFF?style=for-the-badge&logo=kubernetes&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-FFFFFF?style=for-the-badge&logo=mlflow&logoColor=blue) ![Streamlit](https://img.shields.io/badge/Streamlit-FFFFFF?style=for-the-badge&logo=streamlit&logoColor=red) |
+| **Versioning**       | ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 
 
   
