@@ -12,7 +12,7 @@ Libraries: Pandas, Numpy, Seaborn, Scikit-Learn
 
 Technology and Tools:
 
-- Kafka Confluent: For real-time data ingestion.
+- Kafka Confluent: Real-time data ingestion.
 - Amazon S3: Data storage.
 - Airflow: ETL processes.
 - Amazon Redshift: Data warehousing.
