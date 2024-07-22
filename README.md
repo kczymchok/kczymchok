@@ -1,4 +1,4 @@
-# Data Science Portfolio by Kévin Chok
+# Machine Learning Portfolio by Kévin Chok
 
 This repository is to act like a high level overview of the data science projects I've worked on. Each project's `README.md` should act as a full description of the project, but I'll provide a short description here for convenience. All of these projects are in Python. Links are provided to projects whose code can be made public.
 
