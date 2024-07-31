@@ -6,7 +6,9 @@ This repository is to act like a high level overview of the data science project
 
 [Bike Availability Prediction for Lime using Velib Open Data](https://github.com/kczymchok/block_6_LimeProject)
 
-This project leverages Velib Paris' Open Data (self-service bicycle in Paris) to optimize Lime's bike and scooter deployment by predicting bike availability at Velib stations. Real-time data is ingested using Kafka Confluent and stored in S3, then processed with Airflow to load it into Amazon Redshift. A predictive model estimates bike availability, served via FastAPI. The user interface, built with Streamlit, visualizes bike availability and highlights stations with less than 10% or no bikes available. Docker and Docker Compose ensure seamless deployment and communication between services.
+The "Lean the Juice" project addresses a real-world challenge for Lime by aiming to enhance the usage rate of its scooters. Traditionally, Lime employed juicers to collect, charge, and redeploy scooters. Our solution leverages Open Data from Velib Paris (a self-service bicycle network) to optimize Lime's bike and scooter deployment strategy by predicting bike availability at Velib stations.
+
+To achieve this, we ingest real-time data using Kafka Confluent, store it in S3, and process it with Airflow before loading it into Amazon Redshift. A predictive model, served through FastAPI, estimates bike availability for all Velib's station at a given date and time. The user interface, developed with Streamlit, visualizes bike availability and highlights stations with less than 10% or no bikes available. Docker and Docker Compose facilitate seamless deployment and inter-service communication.
 
 Libraries: Pandas, Numpy, Seaborn, Scikit-Learn
 
@@ -27,7 +29,7 @@ This project aims to recommend the best hotel deals for 5 cities in France based
 
 Technology and Tools:
 
-- Selenium: Web scraping for dynamic data (data loaded asynchronously or through JavaScript interactions).
+- Selenium: Web scraping for dynamic data (data loaded asynchronously).
 - Beautiful Soup: Web scraping for static data (data embedded directly in the HTML source).
 - Amazon S3: Data storage.
 - SQLite: Data warehousing.
