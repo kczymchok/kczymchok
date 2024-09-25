@@ -49,7 +49,7 @@ Technology and Tools:
 
 ## Machine Learning
 
-[www.datascienceweekly.org: predict the conversion rate](https://github.com/kczymchok/ML_WALMART_project)
+[www.datascienceweekly.org: predict the conversion rate](https://github.com/kczymchok/ML_conversion_project)
 
 In this project, we predict newsletter conversions for www.datascienceweekly.org. The challenge involved performing EDA and preprocessing, training various models to improve the f1-score. The analysis of model parameters provided insights for improving the conversion rate.
 
